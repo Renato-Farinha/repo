@@ -2,3 +2,4 @@ linha1
 linha2
 linha3
 função envia-email
+	correção da funcão enviar e-mail
